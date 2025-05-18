@@ -18,6 +18,7 @@ export default function Footer() {
               <li><Link href="/pricing" className="text-gray-300 hover:text-white">Pricing</Link></li>
               <li><Link href="/privacy-policy" className="text-gray-300 hover:text-white">Privacy Policy</Link></li>
               <li><Link href="/terms-of-service" className="text-gray-300 hover:text-white">Terms of Service</Link></li>
+              <li><Link href="/user-data-deletion" className="text-gray-300 hover:text-white">Data Deletion</Link></li>
             </ul>
           </div>
           <div>
